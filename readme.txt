@@ -1,3 +1,5 @@
+List of changes:
+
 migration 
 - edit_book_orders_table 
 (alin make migration edit_book_orders_table untuk edit migration yang create_book_orders_table)
